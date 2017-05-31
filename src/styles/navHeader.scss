@@ -1,0 +1,17 @@
+  .navHeader{
+    position: relative;
+    height:68px;
+    padding:0 20px;
+    line-height: 68px;
+    color:#fff;
+    background:#191c21;    
+    span{
+      font-weight: 700;
+      font-size:20px;
+    }
+    a{
+      float:right;
+      font-size:14px;
+      font-weight:700;
+    }
+  }
